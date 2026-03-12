@@ -1,2 +1,19 @@
-Projeto CRUD em PHP e MySQL
-Este projeto faz parte dos meus estudos em desenvolvimento web, com foco em backend e um pouco de integração frontend, e foi construído para aplicar na prática conteúdos como autenticação, sessões, segurança básica e operações CRUD.
+# 🗂️ PHP CRUD System
+
+A CRUD application built with **PHP and MySQL**.
+
+This project was developed as part of my web development learning process, with a focus on **backend development** and basic **frontend integration**. It was created to apply core concepts in practice such as authentication, session management, basic security practices, and CRUD operations.
+
+## 🚀 Features
+- User authentication
+- Session management
+- Create, read, update and delete records
+- Basic security practices
+
+## 🛠 Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
