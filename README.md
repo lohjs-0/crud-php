@@ -1,16 +1,18 @@
-# 🗂️ PHP CRUD System
+# 🗂️ Sistema CRUD em PHP
 
-A CRUD application built with **PHP and MySQL**.
+Uma aplicação CRUD construída com **PHP e MySQL**.
 
-This project was developed as part of my web development learning process, with a focus on **backend development** and basic **frontend integration**. It was created to apply core concepts in practice such as authentication, session management, basic security practices, and CRUD operations.
+Este projeto foi desenvolvido como parte do meu processo de aprendizado em desenvolvimento web, com foco em **desenvolvimento backend** e **integração básica com frontend**. Foi criado para aplicar na prática conceitos fundamentais como autenticação, gerenciamento de sessões, práticas básicas de segurança e operações CRUD.
 
-## 🚀 Features
-- User authentication
-- Session management
-- Create, read, update and delete records
-- Basic security practices
+## 🚀 Funcionalidades
 
-## 🛠 Technologies Used
+- Autenticação de usuários
+- Gerenciamento de sessões
+- Criação, leitura, atualização e exclusão de registros
+- Práticas básicas de segurança
+
+## 🛠 Tecnologias Utilizadas
+
 - PHP
 - MySQL
 - HTML
